@@ -1,2 +1,3 @@
 # learning_journey
-My Learning Journey
+I'm Angela and I have decided to change careers and become a web designer!
+This is my learning journey...
